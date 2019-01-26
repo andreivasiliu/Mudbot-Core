@@ -82,6 +82,8 @@
    |      	     \ - module_process_server_line
    |      	     |
    |      	     \ - module_process_server_prompt
+   |             |
+   |             | - module_process_gmcp
    |      	     |
    |      	     \ - print_line/clean_line
    |
@@ -131,12 +133,8 @@
 #include "data.h"
 
 
-
-
 int main_version_major = 2;
 int main_version_minor = 44;
-
-
 
 char *main_id = MAIN_ID "\r\n" HEADER_ID "\r\n";
 #if defined( FOR_WINDOWS )
