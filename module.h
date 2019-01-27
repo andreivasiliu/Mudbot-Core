@@ -1,28 +1,27 @@
 /*
- * Copyright (c) 2004, 2005  Andrei Vasiliu
+ * Copyright (c) 2004, 2005, 2019  Andrei Vasiliu
  *
  *
  * This file is part of MudBot.
  *
- * MudBot is free software; you can redistribute it and/or modify
- * it under the terms of the GNU Lesser General Public License as published by
- * the Free Software Foundation; either version 3 of the License, or
- * (at your option) any later version.
- *
+ * MudBot is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+
  * MudBot is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU Lesser General Public License for more details.
- *
- * You should have received a copy of the GNU Lesser General Public License
- * along with MudBot; if not, write to the Free Software
- * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  *
  * In addition, as a special exception, the copyright holders of Mudbot 
  * give you permission to use, copy, link, modify and
  * distribute under your own terms, binary versions of modules based
  * on MudBot.
-
  */
 
 #define MODULE_ID "$Name: Release_6 $ $Id: module.h,v 3.1 2005/12/08 18:02:56 andreivasiliu Exp $"
